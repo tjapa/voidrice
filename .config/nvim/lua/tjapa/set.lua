@@ -1,0 +1,16 @@
+vim.g.mapleader = ","
+vim.opt.cursorline = true
+vim.opt.clipboard = 'unnamedplus'
+vim.opt.go = 'a'
+vim.opt.mouse = 'a'
+vim.opt.laststatus = 0
+vim.opt.title = true
+vim.opt.hlsearch  = false
+vim.opt.showmode = false
+vim.opt.ruler = false
+vim.opt.showcmd = false
+vim.opt.cursorline = true
+vim.opt.encoding = 'utf-8'
+vim.opt.number = true
+vim.opt.relativenumber = true
+vim.g.user_emmet_leader_key = ","
