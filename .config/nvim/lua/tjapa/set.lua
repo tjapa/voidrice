@@ -14,3 +14,6 @@ vim.opt.encoding = 'utf-8'
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.g.user_emmet_leader_key = ","
+vim.bo.tabstop = 2
+vim.bo.shiftwidth = 2
+vim.bo.expandtab = true
